@@ -184,6 +184,6 @@ android.enableJetifier = true
 
 ```
 
-[参考]([https://www.jianshu.com/p/9a9d260e10b0](https://github.com/MachineHou/androidVideoEditor))。
+[参考](https://github.com/MachineHou/androidVideoEditor)
 
 
