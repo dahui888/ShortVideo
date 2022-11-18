@@ -1,6 +1,5 @@
 # ShortVideo
 仿微信短视频
-参考https://github.com/MachineHou/androidVideoEditor
 
 #### 集成步骤
 
@@ -184,4 +183,7 @@ android.enableJetifier = true
         });
 
 ```
+
+[参考]([https://www.jianshu.com/p/9a9d260e10b0](https://github.com/MachineHou/androidVideoEditor))。
+
 
