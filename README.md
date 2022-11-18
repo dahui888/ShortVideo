@@ -38,7 +38,7 @@ android {
 }
 
 dependencies {
-       implementation 'com.github.dahui888:HPermissions:1.2'
+      implementation 'com.github.dahui888:ShortVideo:v1.0'
 }
 ```
 
